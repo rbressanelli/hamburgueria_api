@@ -5,20 +5,82 @@
       "password": "$2a$10$kFgdJkIGwGHnFwMlIeDyCOSVacYFe5R554rtavdcRn8VeQbPrf2bC",
       "name": "Roberto",
       "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Hanburguer",
+      "category": "Sanduiches",
+      "price": 14,
+      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "userId": 1
     },
     {
-      "email": "email2@mail.com",
-      "password": "$2a$10$nlmf0TZQa8amsgI6vV6OzO8xwUZB9B1KwePhACMy1ZkerKs4cy9ny",
-      "name": "Roberto",
-      "id": 2
+      "id": 2,
+      "name": "X-Burguer",
+      "category": "Sanduiches",
+      "price": 16,
+      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "userId": 1
     },
     {
-      "email": "email3@mail.com",
-      "password": "$2a$10$jj95Y1/qpokioNtukLJs4ezNSt4A0Qh7byFf3U278dGx2uwrjOyg.",
-      "name": "Roberto",
-      "id": 3
+      "id": 3,
+      "name": "Big Kenzie",
+      "category": "Sanduiches",
+      "price": 18,
+      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "name": "Combo Kenzie",
+      "category": "Combos",
+      "price": 26,
+      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "name": "Fanta Guaraná",
+      "category": "Bebidas",
+      "price": 5,
+      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "userId": 1
+    },
+    {
+      "id": 6,
+      "name": "Coca Cola",
+      "category": "Bebidas",
+      "price": 7,
+      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "userId": 1
+    },
+    {
+      "id": 7,
+      "name": "McShake Ovomaltine",
+      "category": "Sobremesas",
+      "price": 10,
+      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "name": "McSundae Chocolate",
+      "category": "Sobremesas",
+      "price": 10,
+      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "userId": 1
+    },
+    {
+      "id": 10,
+      "name": "Hanburguer 32",
+      "category": "Sanduiches",
+      "price": 14,
+      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "userId": 1
     }
   ],
 
-  "products": []
+  "cart": []
 }
