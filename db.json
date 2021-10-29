@@ -13,7 +13,7 @@
       "name": "Hanburguer",
       "category": "Sanduiches",
       "price": 14,
-      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "image": "https://i.ibb.co/N6zNxS5/hamburger.png",
       "userId": 1
     },
     {
@@ -21,7 +21,7 @@
       "name": "X-Burguer",
       "category": "Sanduiches",
       "price": 16,
-      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "image": "https://i.ibb.co/X40tWTH/x-burger.png",
       "userId": 1
     },
     {
@@ -29,7 +29,7 @@
       "name": "Big Kenzie",
       "category": "Sanduiches",
       "price": 18,
-      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "image": "https://i.ibb.co/QN70XhD/big-kenzie.png",
       "userId": 1
     },
     {
@@ -37,7 +37,7 @@
       "name": "Combo Kenzie",
       "category": "Combos",
       "price": 26,
-      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "image": "https://i.ibb.co/3hSKmsj/combo-kenzie.png",
       "userId": 1
     },
     {
@@ -45,7 +45,7 @@
       "name": "Fanta Guaraná",
       "category": "Bebidas",
       "price": 5,
-      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "image": "https://i.ibb.co/QJ7yt2W/fanta-guarana.png",
       "userId": 1
     },
     {
@@ -53,7 +53,7 @@
       "name": "Coca Cola",
       "category": "Bebidas",
       "price": 7,
-      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "image": "https://i.ibb.co/HxvpjpL/coca-cola.png",
       "userId": 1
     },
     {
@@ -61,7 +61,7 @@
       "name": "McShake Ovomaltine",
       "category": "Sobremesas",
       "price": 10,
-      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "image": "https://i.ibb.co/D5WWzrZ/milkshake-ovomaltine.png",
       "userId": 1
     },
     {
@@ -69,7 +69,7 @@
       "name": "McSundae Chocolate",
       "category": "Sobremesas",
       "price": 10,
-      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
+      "image": "https://i.ibb.co/TwN8wvd/mcshake-ovomaltine.png",
       "userId": 1
     },
     {
