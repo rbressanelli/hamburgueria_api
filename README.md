@@ -3,7 +3,7 @@
 
 INSTRUÇÕES DE ACESSO AOS ENDPOINTS
 
-url base: http://localhost:3001/
+url base: https://hamburgueria-2.herokuapp.com/
 
 
 1 – USER
