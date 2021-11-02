@@ -71,15 +71,8 @@
       "price": 10,
       "image": "https://i.ibb.co/TwN8wvd/mcshake-ovomaltine.png",
       "userId": 1
-    },
-    {
-      "id": 10,
-      "name": "Hanburguer 32",
-      "category": "Sanduiches",
-      "price": 14,
-      "image": "https://i.ibb.co/jDpB9jC/hamburger.png",
-      "userId": 1
-    }
+    }    
   ],
+  
   "cart": []
 }
