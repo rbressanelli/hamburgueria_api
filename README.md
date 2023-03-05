@@ -3,7 +3,7 @@
 
 INSTRUÇÕES DE ACESSO AOS ENDPOINTS
 
-url base: https://hamburgueria-2.herokuapp.com/
+url base: hamburgueriaapi-production.up.railway.app
 
 
 1 – USER
